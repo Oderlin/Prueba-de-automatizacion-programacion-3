@@ -1,4 +1,4 @@
-# 🛒 Proyecto: Tienda Web con Automatización de Pruebas (Selenium)
+# Proyecto: Tienda Web con Automatización de Pruebas (Selenium)
 
 Este proyecto es una tienda web básica con un carrito de compras funcional en modo demo (guardado en el navegador con `localStorage`) y una prueba automatizada con Selenium en Python que verifica la funcionalidad del buscador y el carrito.
 
